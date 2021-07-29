@@ -1,1 +1,1 @@
-ApiPlatform Part 3 learning from SymfonyCast
+ApiPlatform Part 3 learning from SymfonyCasts
